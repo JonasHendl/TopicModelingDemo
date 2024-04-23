@@ -1,5 +1,10 @@
 German version below!
 
+If you have a working Python IDE consider cloning this repository.
+
+You can also launch it with: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JonasHendl/TopicModelingDemo/HEAD)
+
+
 This repository gives you a quick intuition of how you can extract informaiton from customer reviews. You will use the package BERTopic which provides a lot of functionality. 
 
 
@@ -42,8 +47,6 @@ Compiled with a commitment to privacy, all personal identifiers have been remove
 ### Acknowledgements:
 Thanks to TripAdvisor for the review platform and Singapore Airlines for the service quality reflected in the dataset. The thumbnail features the Singapore Airlines logo, acknowledging the brand's influence on the data."
 
-
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JonasHendl/TopicModelingDemo/HEAD)
 
 # German Version
 
