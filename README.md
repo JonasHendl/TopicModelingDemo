@@ -2,11 +2,14 @@ German version below!
 
 # Quickstart
 
-
+<a href="https://colab.research.google.com/github/JonasHendl/TopicModelingDemo/blob/main/bertopic_demo.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a>
 ---
 You can also launch it with: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JonasHendl/TopicModelingDemo/HEAD)
 ---
 Or clone it if you have a working python IDE.
+
+
+
 
 This repository gives you a quick intuition of how you can extract informaiton from customer reviews. You will use the package BERTopic which provides a lot of functionality. 
 
