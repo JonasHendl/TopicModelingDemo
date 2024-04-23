@@ -1,9 +1,12 @@
 German version below!
 
-If you have a working Python IDE consider cloning this repository.
+# Quickstart
 
+
+---
 You can also launch it with: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JonasHendl/TopicModelingDemo/HEAD)
-
+---
+Or clone it if you have a working python IDE.
 
 This repository gives you a quick intuition of how you can extract informaiton from customer reviews. You will use the package BERTopic which provides a lot of functionality. 
 
