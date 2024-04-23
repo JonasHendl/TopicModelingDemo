@@ -2,7 +2,7 @@
 
 
 ---
-You can also launch it with: <a href="https://colab.research.google.com/github/JonasHendl/TopicModelingDemo/blob/main/tutorial.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a>
+Launch with: <a href="https://colab.research.google.com/github/JonasHendl/TopicModelingDemo/blob/main/tutorial.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a>
 ---
 Or clone it if you have a working python IDE.
 
