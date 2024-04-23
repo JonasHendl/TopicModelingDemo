@@ -2,7 +2,7 @@ German version below!
 
 # Quickstart
 
-<a href="https://colab.research.google.com/github/JonasHendl/TopicModelingDemo/blob/main/bertopic_demo.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a>
+<a href="https://colab.research.google.com/github/JonasHendl/TopicModelingDemo/blob/main/tutorial.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a>
 ---
 You can also launch it with: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JonasHendl/TopicModelingDemo/HEAD)
 ---
